@@ -8,3 +8,9 @@ The work of this robot is as follows:
 4. Sending that message in your channel
 
 Just note that if you are Iranian like me, you must use vpn in your system
+
+first install telethon 
+then find your api-id & api-hash of your telegram channel 
+paste it in sonami.py
+finally
+enjoy bot!
